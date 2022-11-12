@@ -1,6 +1,6 @@
 # Welcome to Software Engineering in RevoU!
 
-Here you can access all the modules you will need for the next **24 weeks** with the following details:
+Here you can access all the modules you will need for the next **24 weeks** with the following timeline:
 
 | **Module**                        | **Week** | **Topic**                                                     |
 |-----------------------------------|----------|---------------------------------------------------------------|
