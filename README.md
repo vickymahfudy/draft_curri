@@ -1,3 +1,4 @@
+
 # Welcome to Software Engineering in RevoU!
 
 Here you can access all the modules you will need for the next **24 weeks** with the following timeline:
@@ -9,17 +10,17 @@ Here you can access all the modules you will need for the next **24 weeks** with
 |                                   |          | [Web 101, how the web works and tools preparation](https://github.com/vickymahfudy/draft_curri/tree/main/Module%2001%20-%20Introduction%20&%20Orientation/Week%200/Day%203%20-%20Web%20101,%20how%20the%20web%20works%20and%20tools%20preparation)              |
 |                                   |          | [Terminal basic commands](https://github.com/vickymahfudy/draft_curri/tree/main/Module%2001%20-%20Introduction%20&%20Orientation/Week%200/Day%204%20-%20Terminal%20basic%20commands)                                       |
 |                                   |          | [Github and Git basic commands](https://github.com/vickymahfudy/draft_curri/tree/main/Module%2001%20-%20Introduction%20&%20Orientation/Week%200/Day%205%20-%20Github%20and%20Git%20basic%20commands)                                 |
-| Programming Fundamentals          | Week 1   | HTML / CSS foundations                                        |
-|                                   |          | JavaScript foundations                                        |
-|                                   |          | Functions                                                     |
-|                                   |          | Case study and QnA                                            |
-|                                   | Week 2   | Control Flow and Arrays                                       |
-|                                   |          | Recursion                                                     |
-|                                   |          | Case study and QnA                                            |
-|                                   | Week 3   | Debugging                                                     |
-|                                   |          | Algorithms & data structures (Array, Hash)                    |
-|                                   |          | Parse and store data from standardized files (JSON, CSV, XML) |
-|                                   |          | Programming Fundamentals Sprint Review                        |
+| [Programming Fundamentals](https://github.com/vickymahfudy/draft_curri/tree/main/Module%2002%20-%20Programming%20Fundamentals)          | [Week 1](https://github.com/vickymahfudy/draft_curri/tree/main/Module%2002%20-%20Programming%20Fundamentals/Week%201)   | [HTML / CSS foundations](https://github.com/vickymahfudy/draft_curri/tree/main/Module%2002%20-%20Programming%20Fundamentals/Week%201/Day%201%20-%20HTML%20:%20CSS%20foundations)                                        |
+|                                   |          | [JavaScript foundations](https://github.com/vickymahfudy/draft_curri/tree/main/Module%2002%20-%20Programming%20Fundamentals/Week%201/Day%202%20-%20JavaScript%20foundations)                                        |
+|                                   |          | [Functions](https://github.com/vickymahfudy/draft_curri/tree/main/Module%2002%20-%20Programming%20Fundamentals/Week%201/Day%203%20&%204%20-%20Functions)                                                     |
+|                                   |          | [Case study and QnA](https://github.com/vickymahfudy/draft_curri/tree/main/Module%2002%20-%20Programming%20Fundamentals/Week%201/Day%205%20-Case%20study%20and%20QnA)                                            |
+|                                   | [Week 2](https://github.com/vickymahfudy/draft_curri/tree/main/Module%2002%20-%20Programming%20Fundamentals/Week%202)   | [Control Flow and Arrays](https://github.com/vickymahfudy/draft_curri/tree/main/Module%2002%20-%20Programming%20Fundamentals/Week%202/Day%201%20&%202%20-%20Control%20Flow%20and%20Arrays)                                       |
+|                                   |          | [Recursion](https://github.com/vickymahfudy/draft_curri/tree/main/Module%2002%20-%20Programming%20Fundamentals/Week%202/Day%203%20&%204%20-%20Recursion)                                                     |
+|                                   |          | [Case study and QnA](https://github.com/vickymahfudy/draft_curri/tree/main/Module%2002%20-%20Programming%20Fundamentals/Week%202/Day%205%20-%20Case%20study%20and%20QnA)                                            |
+|                                   | [Week 3](https://github.com/vickymahfudy/draft_curri/tree/main/Module%2002%20-%20Programming%20Fundamentals/Week%203)   | [Debugging](https://github.com/vickymahfudy/draft_curri/tree/main/Module%2002%20-%20Programming%20Fundamentals/Week%203/Day%201%20-%20Debugging)                                                     |
+|                                   |          | [Algorithms & data structures (Array, Hash)](https://github.com/vickymahfudy/draft_curri/tree/main/Module%2002%20-%20Programming%20Fundamentals/Week%203/Day%202%20&%203%20-%20Algorithms%20&%20data%20structures%20%28Array,%20Hash%29)                    |
+|                                   |          | [Parse and store data from standardized files (JSON, CSV, XML)](https://github.com/vickymahfudy/draft_curri/tree/main/Module%2002%20-%20Programming%20Fundamentals/Week%203/Day%204%20-%20Parse%20and%20store%20data%20from%20standardized%20files%20%28JSON,%20CSV,%20XML%29) |
+|                                   |          | [Programming Fundamentals Sprint Review](https://github.com/vickymahfudy/draft_curri/tree/main/Module%2002%20-%20Programming%20Fundamentals/Week%203/Day%205%20-%20Programming%20Fundamentals%20Sprint%20Review)                        |
 | Software Architecture             | Week 4   | Complex Data Structures (Trees & Graphs)                      |
 |                                   |          | Core concepts of Object-Oriented programming                  |
 |                                   |          | Classes, objects and instance variables                       |
