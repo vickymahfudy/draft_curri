@@ -12,10 +12,12 @@
 
 **Periode Kelas:**
 
-| Skill        | Score |
-| ------------ | ----- |
-| Code Editor  | 80    |
-| Markdown     | 75    |
-| Terminal/CLI | 84    |
-| Git          | 89    |
-| GitHub       | 98    |
+**Grade:**
+
+| Skill        | Score | Passed |
+| ------------ | ----- | ------ |
+| Code Editor  | 80    | YES    |
+| Markdown     | 60    | NO     |
+| Terminal/CLI | 84    | YES    |
+| Git          | 89    | YES    |
+| GitHub       | 98    | YES    |
